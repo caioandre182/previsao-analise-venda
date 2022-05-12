@@ -13,22 +13,20 @@
 ### Dependencias
 
 Bibliotecas utilizadas no projeto:
+<li>
+  <ul>matplotlib==3.5.2</ul>
+  <ul>matplotlib-inline==0.1.3</ul>
+  <ul>numpy==1.22.3</ul>
+  <ul>pandas==1.4.2</ul>
+  <ul>seaborn==0.11.2</ul>
+  <ul>streamlit==1.9.0</ul>
 
-matplotlib==3.5.2
-matplotlib-inline==0.1.3
-numpy==1.22.3
-pandas==1.4.2
-seaborn==0.11.2
-streamlit==1.9.0
-
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import r2_score
-from sklearn.metrics import mean_absolute_error
-
-
+  <ul>from sklearn.preprocessing import StandardScaler</ul>
+  <ul>from sklearn.model_selection import train_test_split</ul>
+  <ul>from sklearn.linear_model import LinearRegression</ul>
+  <ul>from sklearn.ensemble import RandomForestRegressor</ul>
+  <ul>from sklearn.metrics import r2_score</ul>
+  <ul>from sklearn.metrics import mean_absolute_error</ul>
 
 
 ### Executando o projeto
