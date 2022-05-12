@@ -29,6 +29,8 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_absolute_error
 
 
+
+
 ### Executando o projeto
 
 
@@ -41,5 +43,5 @@ O link para o projeto no Heroku: https://previsao-renda.herokuapp.com/
 
 ## Autores
  
-ex. [@CaioAndré](https://github.com/caioandre182)
+[@CaioAndré](https://github.com/caioandre182)
 
