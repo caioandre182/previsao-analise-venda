@@ -1,6 +1,6 @@
 # Previsão e Análise de Renda
 
-<p>A partir de uma base de dados, retirada do <a href='www.kaggle.com'>Kaggle</a>, o projeto contém análises sobre Renda familiar. Após as análises é feito dois modelos de regressão, para prever a Renda.</p>
+<p>A partir de uma base de dados, retirada do <a href='https://www.kaggle.com/'>Kaggle</a>, o projeto contém análises sobre Renda familiar. Após as análises é feito dois modelos de regressão, para prever a Renda.</p>
 
 ## Descrição do projeto
 
