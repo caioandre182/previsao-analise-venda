@@ -29,23 +29,12 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_absolute_error
 
 
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
 
 O link para o projeto no Heroku: https://previsao-renda.herokuapp.com/
+
+## Ajuda
 
 É de suma importância que durante a execução do projeto, via Heroku, quando for fazer o <code>upload</code> da base de dados, buscar neste mesmo repositória na pasta <b>input</b>, nesse <a hrfe='https://github.com/caioandre182/previsao-analise-venda/blob/main/input/previsao_de_renda.csv'>caminho</a>. 
 
