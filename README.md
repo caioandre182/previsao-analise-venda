@@ -36,7 +36,7 @@ O link para o projeto no Heroku: https://previsao-renda.herokuapp.com/
 
 ## Ajuda
 
-É de suma importância que durante a execução do projeto, via Heroku, quando for fazer o <code>upload</code> da base de dados, buscar neste mesmo repositória na pasta <b>input</b>, nesse <a hrfe='https://github.com/caioandre182/previsao-analise-venda/blob/main/input/previsao_de_renda.csv'>caminho</a>. 
+É de suma importância que durante a execução do projeto, via Heroku, quando for fazer o <code>upload</code> da base de dados, buscar neste mesmo repositória na pasta <b>input</b>.
 
 
 ## Autores
